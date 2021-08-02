@@ -22,4 +22,4 @@ g++ main.cpp png_reader.cpp png_writer.cpp `pkg-config --cflags --libs gstreamer
 ```
 
 # Run
-` ./pngdecoder mario_PNG125.png out.png`
+` ./png_app mario_PNG125.png out.png`
